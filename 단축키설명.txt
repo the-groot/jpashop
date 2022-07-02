@@ -1,0 +1,9 @@
+커맨드=Ctrl
+옵션=alt
+
+게터세터=alt+Insert
+생성자 객체 확인=Ctrl+p
+최근에 봤던 파일=Ctrl+e
+변수 추출 = Ctrl+Alt+V
+출력 =soutv
+테스트코드 생성=Ctrl+Shift+T
